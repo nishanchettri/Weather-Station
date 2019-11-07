@@ -1,6 +1,3 @@
 # Weather-Station
-Libraries Used: 
-Adafruit_BMP085.h
-U8glib.h
-Adafruit_Sensor.h
-DHT.h
+##Link to libraries: 
+https://drive.google.com/open?id=1cMKnJEy6NVHcenivGY0-hZ4C6iGsIZpL 
